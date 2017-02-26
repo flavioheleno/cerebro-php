@@ -1,13 +1,13 @@
 {
-  "name": "cerebro-plugin",
-  "version": "0.0.2",
-  "description": "",
+  "name": "cerebro-php",
+  "version": "0.0.1",
+  "description": "Cerebro plugin for quick access to php.net manual",
   "license": "MIT",
-  "repository": "KELiON/cerebro-plugin",
+  "repository": "flavioheleno/cerebro-php",
   "author": {
-    "name": "Alexandr Subbotin",
-    "email": "kelionweb@gmail.com",
-    "url": "asubbotin.ru"
+    "name": "Flavio Heleno",
+    "email": "flaviohbatista@gmail.com",
+    "url": "flavioheleno.com"
   },
   "engines": {
     "node": ">=4"
@@ -21,7 +21,9 @@
   "main": "dist/index.js",
   "keywords": [
     "cerebro",
-    "cerebro-plugin"
+    "cerebro-plugin",
+    "cerebro-php",
+    "php"
   ],
   "devDependencies": {
     "babel-cli": "^6.18.0",
